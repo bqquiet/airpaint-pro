@@ -1,0 +1,5 @@
+{
+  "name": "Air Canvas Desktop AI",
+  "description": "A professional real-time hand tracking and drawing application for desktop, built with React, MediaPipe, and Electron.",
+  "requestFramePermissions": ["camera"]
+}
