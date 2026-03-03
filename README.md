@@ -9,7 +9,9 @@ Air Canvas Desktop 🎨✨ — A professional real-time hand tracking and drawin
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <div align="center">
-  <img src="[https://via.placeholder.com/800x450/1a1a2e/ffffff?text=Air+Canvas+Desktop+AI+-+Screenshot](https://cdn.discordapp.com/attachments/1450146848475189412/1478378853192699954/image.png?ex=69a82f19&is=69a6dd99&hm=6b7ce075805ddd01d59983bdea3edfc27a94cad38bf69f0ddf91b55a30a24c40&)" alt="Air Canvas AI Demo Screenshot" width="800"/>
+  <img src="image.png" alt="Air Canvas AI Demo Screenshot" width="800"/>
+  <p><i>Приклад роботи застосунку: малювання в реальному часі за допомогою жестів рук.</i></p>
+</div>
   <p><i>Приклад роботи застосунку: малювання в реальному часі за допомогою жестів рук.</i></p>
 </div>
 
