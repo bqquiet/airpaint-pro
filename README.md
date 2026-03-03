@@ -45,6 +45,6 @@ Air Canvas Desktop 🎨✨ — A professional real-time hand tracking and drawin
 Клонуй репозиторій та встанови залежності:
 
 ```bash
-git clone [https://github.com/your-username/airpaint-pro.git](https://github.com/your-username/air-canvas-ai.git)
+git clone [https://github.com/your-username/airpaint-pro.git](https://github.com/your-username/airpaint-pro.git)
 cd airpaint-pro
 npm install
